@@ -18,7 +18,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech ECE @ **VIT Chennai** ('27)
-- 🚀 Incoming Winter Intern @ **Flipkart**
 - 💼 Software Engineering Intern @ **Staunch Technologies**
 - 🛰️ Ex-Intern @ **CSIR-4PI**, Council of Scientific and Industrial Research, Govt. of India
 - 📱 Ex-Intern @ **Samsung PRISM**
